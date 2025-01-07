@@ -1,3 +1,7 @@
+A simple Food Delivery App, well, at least the start of one:
+
+![foodDelivery-ezgif com-optimize](https://github.com/user-attachments/assets/1bb83fec-f790-4c64-92cb-fb60c8bb94d3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
